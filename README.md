@@ -21,7 +21,7 @@ A modern desktop application to convert black & white images into high-quality, 
 
 Here is a preview of the Colorizer App in action:
 
-![Color-it-AI](Screenshots/App Screenshot.png)
+![App Screenshot](Screenshots/App%20Screenshot.png)
 ---
 
 ## 🧠 Powered By
