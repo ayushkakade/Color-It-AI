@@ -19,7 +19,7 @@ A modern desktop application to convert black & white images into high-quality, 
 
 ## 📸 Demo
 
-![https://github.com/ayushkakade/Color-It-AI/tree/main](screenshots/App Screenshot.png) 
+![https://github.com/ayushkakade/Color-It-AI/tree/main](screenshots/App_Screenshot.png) 
 
 ---
 
