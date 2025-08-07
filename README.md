@@ -19,7 +19,7 @@ A modern desktop application to convert black & white images into high-quality, 
 
 ## 📸 Demo
 
-![screenshot-placeholder](demo.png) <!-- Replace with actual screenshot path -->
+![screenshot-placeholder](demo.png) 
 
 ---
 
@@ -41,7 +41,7 @@ A modern desktop application to convert black & white images into high-quality, 
   └── pts_in_hull.npy
 
 📁 app/
-  └── colorizer_gui.py  # Main script
+  └── Color It v0.7.py  # Main script
 
 📁 assets/
   └── splash_bg.jpg  # Optional splash background
